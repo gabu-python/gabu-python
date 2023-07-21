@@ -1,7 +1,7 @@
 - 👋 Hola!, soy @gabu-python
-- 👀 Estoy interesad en aprender python, conocer el lenguaje y poder desarrollar una carrera en base a este lenguaje
+- 👀 Estoy interesada en aprender python, conocer el lenguaje y poder desarrollarme
 - 🌱 Estoy aprendiendo a programar y quiero especializarme en el desarrollo de python como lenguaje 
-- 💞️ Amaria colaborar con proyectos de este lenguaje, por el momento, soy autodidacta y puedeo desarrollar mis habilidades solamente guiada por mi curiosidad
+- 💞️ Amaria colaborar con proyectos de este lenguaje, por el momento, soy autodidacta y puedo desarrollar mis habilidades solamente guiada por mi curiosidad
 - 📫 en gabulovepython@gmail.com podes contactarme
 
 <!---
